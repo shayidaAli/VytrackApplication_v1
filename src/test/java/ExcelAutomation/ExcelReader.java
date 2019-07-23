@@ -4,10 +4,15 @@ import org.apache.poi.ss.usermodel.*;
 import org.testng.annotations.Test;
 
 import java.io.FileInputStream;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class ExcelReader {
+
+    //its a method to read excel file
+
     @Test
     public void readXLFile() throws Exception{
         //path to the Excel document
@@ -15,7 +20,12 @@ public class ExcelReader {
         //Open filE and convert to stream of data
         FileInputStream inputStream = new FileInputStream(path);
 
+
+
+
         //WORKBOOK > WORKSHEET > ROW > CELL
+        //row is counted from the top to the buttom 从上到下
+        //cell is counted from the left to right 从左到右
 
         //Open the WorkBook. Any type
         Workbook workbook = WorkbookFactory.create(inputStream);
@@ -30,9 +40,23 @@ public class ExcelReader {
         //Goto first 2 Cells
         Cell cell1 = row.getCell(0);
         Cell cell2 = row.getCell(1);
+
         //print cell values
         System.out.println(cell1.toString());
         System.out.println(cell2.toString());
+
+        //created a empty list for all the information on first row.
+        List <String> row1= new ArrayList<>();
+        row1.add(row.getCell(0).toString());
+        row1.add(row.getCell(1).toString());
+
+
+        for (String cellNmae: row1){
+            System.out.println(cellNmae);
+        }
+
+
+
 
         //read cell value using method chaining
         String country1 = worksheet.getRow(1).getCell(0).toString();

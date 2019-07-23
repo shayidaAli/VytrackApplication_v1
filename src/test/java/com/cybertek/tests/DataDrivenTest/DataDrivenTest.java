@@ -1,5 +1,6 @@
 package com.cybertek.tests.DataDrivenTest;
 
+import com.cybertek.Pages.HomePageElements;
 import com.cybertek.Pages.LogInPageElements;
 import com.cybertek.utilities.ConfigurationReader;
 import com.cybertek.utilities.Driver;
@@ -7,6 +8,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.*;
 
@@ -49,11 +51,9 @@ public class DataDrivenTest {
     }
 
     @Test
-    public void LoginTest() {
+    public void LoginTest() throws InterruptedException {
 
-
-
-       for (int i=1; i<worksheet.getLastRowNum();i++){
+       for (int i=1; i< 4;i++){
             //read cell value using method chaining
             String username = worksheet.getRow(i).getCell(0).toString();
             String password = worksheet.getRow(i).getCell(1).toString();
@@ -62,6 +62,16 @@ public class DataDrivenTest {
             LogInPageElements logInPageElements = new LogInPageElements();
             logInPageElements.email.sendKeys(username);
             logInPageElements.password.sendKeys(password);
+            logInPageElements.password.sendKeys(Keys.ENTER);
+
+           Thread.sleep(3000);
+
+           HomePageElements homePageElements= new HomePageElements();
+           homePageElements.forlogout.click();
+           homePageElements.logoutButton.click();
+
+           Thread.sleep(3000);
+
 
 
         }

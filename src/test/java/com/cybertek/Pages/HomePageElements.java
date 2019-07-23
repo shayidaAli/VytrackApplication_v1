@@ -21,6 +21,14 @@ public class HomePageElements {
     @FindBy (xpath ="//li[@class='dropdown-menu-single-item first']//span[@class='title title-level-2'][contains(text(),'Vehicles')]")
     public WebElement Vehicle;
 
+    @FindBy (xpath = "//*[@id=\"user-menu\"]/a")
+    public WebElement forlogout;
+
+    @FindBy (xpath = "//*[@id=\"user-menu\"]/ul/li[5]/a")
+    public WebElement logoutButton;
+
+
+
 
 
 
