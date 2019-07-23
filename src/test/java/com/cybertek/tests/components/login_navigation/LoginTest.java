@@ -1,10 +1,8 @@
 package com.cybertek.tests.components.login_navigation;
 
+import com.cybertek.Pages.LogInPageElements;
 import com.cybertek.utilities.ConfigurationReader;
 import com.cybertek.utilities.Driver;
-import com.cybertek.utilities.TestBase;
-import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
 import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
@@ -20,7 +18,7 @@ public class LoginTest  {
         Driver.getDriver().manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 
         Driver.getDriver().get(ConfigurationReader.getProperty("url"));
-        PageElements pageElements=new PageElements();
+        LogInPageElements pageElements=new LogInPageElements();
         pageElements.email.sendKeys(ConfigurationReader.getProperty("driver_username"));
         pageElements.password.sendKeys(ConfigurationReader.getProperty("driver_password"));
         pageElements.loginbutton.click();

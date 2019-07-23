@@ -1,4 +1,4 @@
-package com.cybertek.tests.components.login_navigation;
+package com.cybertek.Pages;
 
 import com.cybertek.utilities.Driver;
 import org.openqa.selenium.WebElement;
@@ -7,9 +7,9 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class PageElements {
+public class LogInPageElements {
 
-    public PageElements(){
+    public LogInPageElements(){
         PageFactory.initElements(Driver.getDriver(), this);
     }
 

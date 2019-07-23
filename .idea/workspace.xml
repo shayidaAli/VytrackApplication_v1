@@ -2,81 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b01e393-16a1-494c-9323-b6e274f02bda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/activities/activities_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/cusyomers/customers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/dashbord/dashbord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/fleet/fleet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/PageAccessTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/PageElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/marketing/marketing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/reports_segments/reports_and_segments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/sales/sales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/system/system.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/smoke_tests/MenuOptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BrowserUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/VytrackApplication_v1.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/components/activities/activities_test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/components/cusyomers/customers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/components/dashbord/dashbord.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/components/fleet/fleet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/components/login_navigation/LoginTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/components/login_navigation/PageAccessTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/components/login_navigation/PageElements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/components/marketing/marketing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/components/reports_segments/reports_and_segments.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/components/sales/sales.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/components/system/system.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/smoke_tests/MenuOptionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/BrowserUtil$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/BrowserUtil$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/BrowserUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/ConfigurationReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/Driver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/TestBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/VytrackApplication_v1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/VytrackApplication_v1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.cybertek.tests.smoke_tests.MenuOptionTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/VytrackApplication_v1.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VytrackApplication_v1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/VytrackApplication_v1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ExcelAutomation/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ExcelAutomation/ExcelWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/Pages/HomePageElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/DataDrivenTest/DataDrivenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Book1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Countries.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/PageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/Pages/LogInPageElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/smoke_tests/MenuOptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/smoke_tests/MenuOptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/components/login_navigation/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/components/login_navigation/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/components/login_navigation/PageElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/smoke_tests/MenuOptionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/smoke_tests/MenuOptionTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -92,19 +31,7 @@
   <component name="ExportTestResults" exportFormat="Xml" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/Driver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" selection-start-line="25" selection-end-line="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Configuration.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -114,24 +41,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/ConfigurationReader.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/DataDrivenTest/DataDrivenTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#589#590#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/smoke_tests/MenuOptionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="255">
+              <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -140,66 +53,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/marketing/marketing.java">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/PageElements.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#169#170#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/LoginTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="n#suite#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/PageAccessTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ExcelAutomation/ExcelReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BrowserUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4299">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/TestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="267">
+              <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -229,7 +98,6 @@
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BrowserUtil.java" />
         <option value="$PROJECT_DIR$/testNG.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/smoke_tests/MenuOptionTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/pages/activities.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/login_navigation.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/ConfigurationReader.java" />
@@ -238,9 +106,17 @@
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/Driver.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/TestBase.java" />
         <option value="$PROJECT_DIR$/Configuration.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/smoke_tests/MenuOptionTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/PageElements.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/Pages/LogInPageElements.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/Pages/HomePageElements.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/smoke_tests/MenuOptionTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/ExcelAutomation/ExcelWriter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ExcelAutomation/ExcelReader.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/ExcelUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/DataDrivenTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/DataDrivenTest/DataDrivenTest.java" />
       </list>
     </option>
   </component>
@@ -271,9 +147,9 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="925" />
-    <option name="y" value="23" />
-    <option name="width" value="515" />
+    <option name="x" value="30" />
+    <option name="y" value="27" />
+    <option name="width" value="1060" />
     <option name="height" value="816" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -293,7 +169,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -324,22 +199,27 @@
               <item name="VytrackApplication_v1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563751014021" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563912199101" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -353,34 +233,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTest.PositiveLoginTest">
-    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.DataDrivenTest.LoginTest">
+    <configuration name="DataDrivenTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="VytrackApplication_v1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.components.login_navigation.*" />
+          <option name="PATTERN" value="com.cybertek.tests.DataDrivenTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.components.login_navigation" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.components.login_navigation.LoginTest" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.DataDrivenTest.DataDrivenTest" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest.PositiveLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DataDrivenTest.LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="VytrackApplication_v1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.components.login_navigation.*" />
+          <option name="PATTERN" value="com.cybertek.tests.DataDrivenTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.components.login_navigation" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.components.login_navigation.LoginTest" />
-      <option name="METHOD_NAME" value="PositiveLoginTest" />
+      <option name="PACKAGE_NAME" value="com.cybertek.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.DataDrivenTest.DataDrivenTest" />
+      <option name="METHOD_NAME" value="LoginTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -388,67 +268,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuOptionTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ExcelReader" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="VytrackApplication_v1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.smoke_tests.*" />
+          <option name="PATTERN" value="ExcelAutomation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.smoke_tests" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.smoke_tests.MenuOptionTest" />
+      <option name="PACKAGE_NAME" value="ExcelAutomation" />
+      <option name="MAIN_CLASS_NAME" value="ExcelAutomation.ExcelReader" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuOptionTestDemo.test1" type="TestNG" temporary="true" show_console_on_std_err="true" show_console_on_std_out="true">
+    <configuration name="ExcelReader.readXLFile" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="VytrackApplication_v1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.smoke_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-        <pattern>
-          <option name="PATTERN" value="org.testng.reporters.XMLReporter" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-        <pattern>
-          <option name="PATTERN" value="org.testng.reporters.EmailableReporter" />
+          <option name="PATTERN" value="ExcelAutomation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.smoke_tests" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.smoke_tests.MenuOptionTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MenuOptionTest.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="VytrackApplication_v1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.smoke_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.smoke_tests" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.smoke_tests.MenuOptionTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="ExcelAutomation" />
+      <option name="MAIN_CLASS_NAME" value="ExcelAutomation.ExcelReader" />
+      <option name="METHOD_NAME" value="readXLFile" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -456,18 +302,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuOptionTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ExcelWriter" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="VytrackApplication_v1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.smoke_tests.*" />
+          <option name="PATTERN" value="ExcelAutomation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests.smoke_tests" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.smoke_tests.MenuOptionTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="ExcelAutomation" />
+      <option name="MAIN_CLASS_NAME" value="ExcelAutomation.ExcelWriter" />
       <properties />
       <listeners />
       <method v="2">
@@ -475,19 +319,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.MenuOptionTestDemo.test1" />
-      <item itemvalue="TestNG.MenuOptionTest.test2" />
-      <item itemvalue="TestNG.MenuOptionTest (1)" />
-      <item itemvalue="TestNG.LoginTest.PositiveLoginTest" />
-      <item itemvalue="TestNG.LoginTest" />
+      <item itemvalue="TestNG.ExcelReader" />
+      <item itemvalue="TestNG.ExcelReader.readXLFile" />
+      <item itemvalue="TestNG.ExcelWriter" />
+      <item itemvalue="TestNG.DataDrivenTest" />
+      <item itemvalue="TestNG.DataDrivenTest.LoginTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginTest.PositiveLoginTest" />
-        <item itemvalue="TestNG.LoginTest" />
-        <item itemvalue="TestNG.MenuOptionTest (1)" />
-        <item itemvalue="TestNG.MenuOptionTestDemo.test1" />
-        <item itemvalue="TestNG.MenuOptionTest.test2" />
+        <item itemvalue="TestNG.DataDrivenTest.LoginTest" />
+        <item itemvalue="TestNG.DataDrivenTest" />
+        <item itemvalue="TestNG.ExcelReader" />
+        <item itemvalue="TestNG.ExcelWriter" />
+        <item itemvalue="TestNG.ExcelReader.readXLFile" />
       </list>
     </recent_temporary>
   </component>
@@ -505,41 +349,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginTest_PositiveLoginTest - 2019.07.21 at 16h 09m 45s.xml">
-      <configuration name="LoginTest.PositiveLoginTest" configurationId="TestNG" />
+    <history-entry file="DataDrivenTest - 2019.07.23 at 14h 35m 06s.xml">
+      <configuration name="DataDrivenTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MenuOptionTest_(1) - 2019.07.21 at 16h 10m 24s.xml">
-      <configuration name="MenuOptionTest (1)" configurationId="TestNG" />
+    <history-entry file="DataDrivenTest - 2019.07.23 at 14h 35m 51s.xml">
+      <configuration name="DataDrivenTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MenuOptionTest_(1) - 2019.07.21 at 16h 11m 10s.xml">
-      <configuration name="MenuOptionTest (1)" configurationId="TestNG" />
+    <history-entry file="DataDrivenTest - 2019.07.23 at 14h 46m 09s.xml">
+      <configuration name="DataDrivenTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.07.21 at 16h 11m 41s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="DataDrivenTest - 2019.07.23 at 14h 46m 42s.xml">
+      <configuration name="DataDrivenTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.07.21 at 16h 12m 39s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="DataDrivenTest_LoginTest - 2019.07.23 at 14h 47m 03s.xml">
+      <configuration name="DataDrivenTest.LoginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.07.21 at 16h 13m 14s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="DataDrivenTest - 2019.07.23 at 14h 49m 26s.xml">
+      <configuration name="DataDrivenTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2019.07.21 at 16h 14m 10s.xml">
-      <configuration name="LoginTest" configurationId="TestNG" />
+    <history-entry file="DataDrivenTest - 2019.07.23 at 14h 50m 12s.xml">
+      <configuration name="DataDrivenTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_PositiveLoginTest - 2019.07.21 at 16h 14m 38s.xml">
-      <configuration name="LoginTest.PositiveLoginTest" configurationId="TestNG" />
+    <history-entry file="DataDrivenTest_LoginTest - 2019.07.23 at 14h 52m 57s.xml">
+      <configuration name="DataDrivenTest.LoginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_PositiveLoginTest - 2019.07.21 at 18h 37m 59s.xml">
-      <configuration name="LoginTest.PositiveLoginTest" configurationId="TestNG" />
+    <history-entry file="DataDrivenTest_LoginTest - 2019.07.23 at 15h 02m 39s.xml">
+      <configuration name="DataDrivenTest.LoginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_PositiveLoginTest - 2019.07.21 at 18h 40m 05s.xml">
-      <configuration name="LoginTest.PositiveLoginTest" configurationId="TestNG" />
+    <history-entry file="DataDrivenTest_LoginTest - 2019.07.23 at 15h 03m 13s.xml">
+      <configuration name="DataDrivenTest.LoginTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="816" extended-state="6" />
+    <frame x="30" y="27" width="1060" height="816" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10586552" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39292732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -548,15 +392,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.45027626" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24723756" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39889959" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32872927" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.081267215" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3287483" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.13617606" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.42040184" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -568,7 +412,7 @@
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3297568" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32260373" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2524558" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -577,15 +421,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32647464" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24759285" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39889959" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.081267215" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3287483" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.13617606" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.42040184" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -659,11 +503,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test Results - _default__(1).xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-118" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Test Results - _default__(1).xml" />
     <entry file="file://$PROJECT_DIR$/test-output/emailable-report.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -674,47 +514,16 @@
     <entry file="file://$PROJECT_DIR$/VytrackApplication_v1.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="58" column="37" lean-forward="true" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test-output/Default Suite/VytrackApplication_v1.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/marketing/marketing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BrowserUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4299">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/ConfigurationReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#589#590#0" expanded="true" />
@@ -723,37 +532,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/TestBase.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/marketing/marketing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/Pages/LogInPageElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="2" selection-start-line="11" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/Driver.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/Pages/HomePageElements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="25" selection-end-line="26" />
+        <state relative-caret-position="225">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Configuration.properties">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/smoke_tests/MenuOptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="300">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -767,25 +576,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/PageElements.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BrowserUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="60">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/LoginTest.java">
+    <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding>
+            <element signature="n#suite#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="16" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExcelAutomation/ExcelWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/ExcelUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="52" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" selection-start-line="25" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/smoke_tests/MenuOptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="61" column="2" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExcelAutomation/ExcelReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/DataDrivenTest/DataDrivenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Configuration.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -846,6 +744,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
