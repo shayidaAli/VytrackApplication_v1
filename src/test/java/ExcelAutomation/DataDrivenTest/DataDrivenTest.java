@@ -1,4 +1,4 @@
-package com.cybertek.tests.DataDrivenTest;
+package ExcelAutomation.DataDrivenTest;
 
 import com.cybertek.Pages.HomePageElements;
 import com.cybertek.Pages.LogInPageElements;
