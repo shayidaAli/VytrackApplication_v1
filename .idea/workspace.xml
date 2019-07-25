@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b01e393-16a1-494c-9323-b6e274f02bda" name="Default Changelist" comment="vytracktdd">
+    <list default="true" id="0b01e393-16a1-494c-9323-b6e274f02bda" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/WebTables/HandleWebTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/WebTables/WebtablE.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/DataDrivenTest/DataDrivenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExcelAutomation/DataDrivenTest/DataDrivenTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/~$Book1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ExcelAutomation/DataDrivenTest/DataDrivenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExcelAutomation/DataDrivenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Book1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Book1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Book1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Book1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/tests/DataDrivenTest/DataDrivenTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,11 +24,25 @@
   <component name="ExportTestResults" exportFormat="Xml" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ExcelAutomation/ExcelWriter.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/WebTables/HandleWebTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="544">
+              <caret line="70" column="2" lean-forward="true" selection-start-line="70" selection-start-column="2" selection-end-line="70" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1231#1232#0" expanded="true" />
+                <element signature="e#1261#1262#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ExcelAutomation/DataDrivenTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -32,11 +50,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ExcelAutomation/DataDrivenTest/DataDrivenTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/WebTables/WebtablE.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1129">
-              <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+            <state relative-caret-position="225">
+              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/smoke_tests/MenuOptionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="77" column="34" lean-forward="true" selection-start-line="77" selection-start-column="34" selection-end-line="77" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/LoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            <state relative-caret-position="570">
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,22 +96,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/Driver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-              <folding>
-                <element signature="n#suite#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/Pages/LogInPageElements.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="11" column="2" selection-start-line="11" selection-end-line="14" />
+            <state relative-caret-position="316">
+              <caret line="25" column="48" lean-forward="true" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,20 +110,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ExcelAutomation/ExcelReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
+            <state relative-caret-position="600">
               <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/Pages/HomePageElements.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,8 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="75" column="18" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="18" />
+            <state relative-caret-position="364">
+              <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
             </state>
           </provider>
         </entry>
@@ -133,6 +148,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -174,6 +190,11 @@
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/Pages/HomePageElements.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/DataDrivenTest/DataDrivenTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ExcelAutomation/DataDrivenTest/DataDrivenTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/WebTables/WebTablesHTML" />
+        <option value="$PROJECT_DIR$/WebtablE.html" />
+        <option value="$PROJECT_DIR$/src/test/java/WebTables/WebtablE.html" />
+        <option value="$PROJECT_DIR$/src/test/java/ExcelAutomation/DataDrivenTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/WebTables/HandleWebTable.java" />
       </list>
     </option>
   </component>
@@ -203,10 +224,10 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="816" />
+    <option name="height" value="819" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -214,18 +235,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
-          <expand>
-            <path>
-              <item name="VytrackApplication_v1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="VytrackApplication_v1" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,25 +266,29 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ExcelAutomation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="VytrackApplication_v1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="VytrackApplication_v1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ExcelAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="DataDrivenTest" type="462c0819:PsiDirectoryNode" />
+              <item name="WebTables" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
+          <expand>
+            <path>
+              <item name="VytrackApplication_v1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="VytrackApplication_v1" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563999840543" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564096247825" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -283,6 +296,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/WebTables" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/resources" />
     </key>
@@ -299,12 +315,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.DataDrivenTest.LoginTest">
+  <component name="RunManager" selected="TestNG.HandleWebTable.test1">
+    <configuration name="DataDrivenTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="VytrackApplication_v1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExcelAutomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ExcelAutomation" />
+      <option name="MAIN_CLASS_NAME" value="ExcelAutomation.DataDrivenTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DataDrivenTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="VytrackApplication_v1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExcelAutomation.DataDrivenTest.*" />
+          <option name="PATTERN" value="ExcelAutomation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,11 +348,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DataDrivenTest.LoginTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="VytrackApplication_v1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExcelAutomation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ExcelAutomation" />
+      <option name="MAIN_CLASS_NAME" value="ExcelAutomation.DataDrivenTest" />
+      <option name="METHOD_NAME" value="LoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DataDrivenTest.LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="VytrackApplication_v1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExcelAutomation.DataDrivenTest.*" />
+          <option name="PATTERN" value="ExcelAutomation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,33 +384,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExcelReader" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HandleWebTable.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="VytrackApplication_v1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExcelAutomation.*" />
+          <option name="PATTERN" value="WebTables.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ExcelAutomation" />
-      <option name="MAIN_CLASS_NAME" value="ExcelAutomation.ExcelReader" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExcelReader.readXLFile" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="VytrackApplication_v1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExcelAutomation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ExcelAutomation" />
-      <option name="MAIN_CLASS_NAME" value="ExcelAutomation.ExcelReader" />
-      <option name="METHOD_NAME" value="readXLFile" />
+      <option name="PACKAGE_NAME" value="WebTables" />
+      <option name="MAIN_CLASS_NAME" value="WebTables.HandleWebTable" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -368,36 +402,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExcelWriter" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="VytrackApplication_v1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExcelAutomation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ExcelAutomation" />
-      <option name="MAIN_CLASS_NAME" value="ExcelAutomation.ExcelWriter" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="TestNG.ExcelReader" />
-      <item itemvalue="TestNG.ExcelReader.readXLFile" />
-      <item itemvalue="TestNG.ExcelWriter" />
       <item itemvalue="TestNG.DataDrivenTest" />
       <item itemvalue="TestNG.DataDrivenTest.LoginTest" />
+      <item itemvalue="TestNG.DataDrivenTest (1)" />
+      <item itemvalue="TestNG.DataDrivenTest.LoginTest (1)" />
+      <item itemvalue="TestNG.HandleWebTable.test1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.DataDrivenTest.LoginTest" />
-        <item itemvalue="TestNG.ExcelReader.readXLFile" />
+        <item itemvalue="TestNG.HandleWebTable.test1" />
+        <item itemvalue="TestNG.DataDrivenTest (1)" />
+        <item itemvalue="TestNG.DataDrivenTest.LoginTest (1)" />
         <item itemvalue="TestNG.DataDrivenTest" />
-        <item itemvalue="TestNG.ExcelReader" />
-        <item itemvalue="TestNG.ExcelWriter" />
+        <item itemvalue="TestNG.DataDrivenTest.LoginTest" />
       </list>
     </recent_temporary>
   </component>
@@ -419,46 +437,53 @@
       <option name="project" value="LOCAL" />
       <updated>1563912350052</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="vytracktdd">
+      <created>1563999845941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563999845941</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DataDrivenTest_LoginTest - 2019.07.23 at 14h 52m 57s.xml">
-      <configuration name="DataDrivenTest.LoginTest" configurationId="TestNG" />
+    <history-entry file="DataDrivenTest_(1) - 2019.07.25 at 11h 22m 57s.xml">
+      <configuration name="DataDrivenTest (1)" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataDrivenTest_LoginTest - 2019.07.23 at 15h 02m 39s.xml">
-      <configuration name="DataDrivenTest.LoginTest" configurationId="TestNG" />
+    <history-entry file="HandleWebTable_test1 - 2019.07.25 at 18h 12m 46s.xml">
+      <configuration name="HandleWebTable.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataDrivenTest_LoginTest - 2019.07.23 at 15h 03m 13s.xml">
-      <configuration name="DataDrivenTest.LoginTest" configurationId="TestNG" />
+    <history-entry file="HandleWebTable_test1 - 2019.07.25 at 18h 20m 17s.xml">
+      <configuration name="HandleWebTable.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ExcelReader_readXLFile - 2019.07.23 at 17h 12m 08s.xml">
-      <configuration name="ExcelReader.readXLFile" configurationId="TestNG" />
+    <history-entry file="HandleWebTable_test1 - 2019.07.25 at 18h 20m 46s.xml">
+      <configuration name="HandleWebTable.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataDrivenTest_LoginTest - 2019.07.23 at 17h 17m 27s.xml">
-      <configuration name="DataDrivenTest.LoginTest" configurationId="TestNG" />
+    <history-entry file="HandleWebTable_test1 - 2019.07.25 at 18h 22m 29s.xml">
+      <configuration name="HandleWebTable.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataDrivenTest_LoginTest - 2019.07.23 at 17h 18m 01s.xml">
-      <configuration name="DataDrivenTest.LoginTest" configurationId="TestNG" />
+    <history-entry file="HandleWebTable_test1 - 2019.07.25 at 18h 22m 45s.xml">
+      <configuration name="HandleWebTable.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataDrivenTest_LoginTest - 2019.07.23 at 17h 23m 20s.xml">
-      <configuration name="DataDrivenTest.LoginTest" configurationId="TestNG" />
+    <history-entry file="HandleWebTable_test1 - 2019.07.25 at 18h 24m 25s.xml">
+      <configuration name="HandleWebTable.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataDrivenTest_LoginTest - 2019.07.23 at 17h 25m 19s.xml">
-      <configuration name="DataDrivenTest.LoginTest" configurationId="TestNG" />
+    <history-entry file="HandleWebTable_test1 - 2019.07.25 at 18h 25m 02s.xml">
+      <configuration name="HandleWebTable.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataDrivenTest_LoginTest - 2019.07.23 at 17h 25m 39s.xml">
-      <configuration name="DataDrivenTest.LoginTest" configurationId="TestNG" />
+    <history-entry file="HandleWebTable_test1 - 2019.07.25 at 18h 27m 25s.xml">
+      <configuration name="HandleWebTable.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="DataDrivenTest_LoginTest - 2019.07.23 at 17h 27m 30s.xml">
-      <configuration name="DataDrivenTest.LoginTest" configurationId="TestNG" />
+    <history-entry file="HandleWebTable_test1 - 2019.07.25 at 18h 40m 34s.xml">
+      <configuration name="HandleWebTable.test1" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="816" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="819" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17668097" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2639485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -467,12 +492,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24723756" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16231087" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39889959" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.13121547" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.13121547" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.13535912" />
@@ -606,16 +631,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/PageAccessTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -641,26 +656,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/ExcelUtil.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="26" selection-start-line="25" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/smoke_tests/MenuOptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="61" column="2" selection-start-line="61" selection-start-column="2" selection-end-line="61" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Configuration.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -674,16 +669,6 @@
           <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding>
-            <element signature="n#suite#0;n#!!top" />
           </folding>
         </state>
       </provider>
@@ -708,10 +693,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/WebTables/WebTablesHTML" />
+    <entry file="file://$PROJECT_DIR$/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="75" column="18" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="18" />
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding>
+            <element signature="n#suite#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/components/login_navigation/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExcelAutomation/ExcelReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -729,30 +738,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        <state relative-caret-position="570">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExcelAutomation/ExcelReader.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/smoke_tests/MenuOptionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        <state relative-caret-position="305">
+          <caret line="77" column="34" lean-forward="true" selection-start-line="77" selection-start-column="34" selection-end-line="77" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExcelAutomation/DataDrivenTest/DataDrivenTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1129">
-          <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+        <state relative-caret-position="364">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExcelAutomation/DataDrivenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WebTables/WebtablE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="25" column="48" lean-forward="true" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/WebTables/HandleWebTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="70" column="2" lean-forward="true" selection-start-line="70" selection-start-column="2" selection-end-line="70" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1231#1232#0" expanded="true" />
+            <element signature="e#1261#1262#0" expanded="true" />
           </folding>
         </state>
       </provider>

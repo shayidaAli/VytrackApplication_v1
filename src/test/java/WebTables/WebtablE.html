@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+ <head>
+    <meta charset="UTF-8">
+    <title>Sample</title>
+ </head>
+
+<body>
+<table border ="1">
+
+    <tbody>
+
+    <tr>
+        <td>first cell</td>
+        <td>second cell</td>
+    </tr>
+
+
+    <tr>
+        <td>first cell of the second row</td>
+        <td>second cell of the second row</td>
+    </tr>
+
+    </tbody>
+
+</table>
+</body>
+</html>
+
+
+
+-->  for first cell of the second row
+       //table[@id='tablename']/tbody/tr[2]/td[1]
+
+-->  orders: table->tbody->row->colum
+
+-->   for all headers on first row:
+       findEelements(By.xpath( "//table[@id='tablename']/tbody/tr[1]/th" ) );
+
+-->   for all elements on second row:
+findEelements(By.xpath( "//table[@id='tablename']/tbody/tr[2]/td" ) );

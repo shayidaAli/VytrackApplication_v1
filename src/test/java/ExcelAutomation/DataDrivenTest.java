@@ -1,4 +1,4 @@
-package ExcelAutomation.DataDrivenTest;
+package ExcelAutomation;
 
 import com.cybertek.Pages.HomePageElements;
 import com.cybertek.Pages.LogInPageElements;
@@ -35,29 +35,29 @@ public class DataDrivenTest {
 
     @BeforeMethod
     public void getTestData() throws IOException {
-        driver.get(ConfigurationReader.getProperty("url"));
+       driver.get(ConfigurationReader.getProperty("url"));
 
         //Open filE and convert to stream of data
         FileInputStream inputStream = new FileInputStream("/Users/syd/Downloads/VytrackApplication_v1/src/test/resources/Book1.xlsx");
 
+        //use workbookfactory from apache-poi
         //WORKBOOK > WORKSHEET > ROW > CELL
 
         //Open the WorkBook. Any type
          workbook = WorkbookFactory.create(inputStream);
          worksheet = workbook.getSheetAt(0);
-
-
-
     }
 
     @Test
     public void LoginTest() throws InterruptedException {
 
-       for (int i=1; i< 4;i++){
+//to itorate through all the information on the table
+       for (int i=1; i < worksheet.getLastRowNum();i++){
             //read cell value using method chaining
             String username = worksheet.getRow(i).getCell(0).toString();
             String password = worksheet.getRow(i).getCell(1).toString();
 
+           System.out.println(username +"   -----   "+password);
 
             LogInPageElements logInPageElements = new LogInPageElements();
             logInPageElements.email.sendKeys(username);
@@ -70,11 +70,10 @@ public class DataDrivenTest {
            homePageElements.forlogout.click();
            homePageElements.logoutButton.click();
 
-           Thread.sleep(3000);
-
-
+           Thread.sleep(4000);
 
         }
+
     }
 
 
