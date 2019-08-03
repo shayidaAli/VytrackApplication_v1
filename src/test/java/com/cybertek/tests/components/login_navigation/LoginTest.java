@@ -9,6 +9,7 @@ import java.util.concurrent.TimeUnit;
 
 public class LoginTest  {
 
+//TODO FINISH THE BELOW TEST CASES
 
     @Test
     public void PositiveLoginTest(){
@@ -25,17 +26,15 @@ public class LoginTest  {
 
 
 
-
        //pageElements.login(ConfigurationReader.getProperty("driver_username"),ConfigurationReader.getProperty("driver_password"));
 
 
-        //log in as SALES MANAGER
-
-
-        //log in as DRIVER
-
-
     }
+
+    // TODO log in as SALES MANAGER
+
+
+    //TODO log in as DRIVER
 
 
     @Test
